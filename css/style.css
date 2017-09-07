@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.heading .title {
+    text-align: center;
+    background-color: #8A2BE2;
+    color: #FFFFFF;
+    font-style: italic;
+    margin: 1rem;
+}
+.beauty .leftcard {
+	width: 20rem;
+    margin-left: 15%;
+    margin-top: 25%;
+}
+.details
+{
+	padding: 4rem;
+}
+.benefits .advantages{
+	background-color: #FFFFFF;
+}
