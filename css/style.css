@@ -1,23 +1,20 @@
 body {
-	margin: 0;
-	padding: 0;
+    margin: 0;
+    padding: 0;
 }
-.heading .title {
-    text-align: center;
-    background-color: #8A2BE2;
-    color: #FFFFFF;
-    font-style: italic;
-    margin: 1rem;
+.css-design {
+    width: 94%;
 }
-.beauty .leftcard {
-	width: 20rem;
-    margin-left: 15%;
-    margin-top: 25%;
+.css-design .subtitle {
+    background-color: #f7f7f9;
+    padding: 1.5rem;
+    margin-right: 0;
+    margin-left: 0;
+    line-height: 2rem
 }
-.details
-{
-	padding: 4rem;
+.css-design a {
+    text-decoration: underline;
 }
-.benefits .advantages{
-	background-color: #FFFFFF;
+.title {
+    line-height: 2rem;
 }
